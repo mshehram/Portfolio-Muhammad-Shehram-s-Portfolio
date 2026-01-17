@@ -1,0 +1,22 @@
+# Ignore system files
+.DS_Store
+desktop.ini
+
+# Ignore downloads & heavy files
+assets/img/Downloads/
+
+# Ignore videos
+*.mp4
+*.mkv
+*.mov
+
+# Ignore installers & executables
+*.exe
+*.dmg
+
+# Ignore archives
+*.zip
+*.rar
+
+# Ignore temp / incomplete files
+*.crdownload
